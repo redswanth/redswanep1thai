@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://redswanth.github.io/redswanep1thai/sitemap.xml
